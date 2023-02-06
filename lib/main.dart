@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'dart:math';
 
-import 'package:claculater/divide.dart';
-import 'package:claculater/minus.dart';
-import 'package:claculater/multiply.dart';
-import 'package:claculater/plus.dart';
+import 'divide.dart';
+import 'minus.dart';
+import 'multiply.dart';
+import 'plus.dart';
 
 List<String> addednumbers = [];
 main(){

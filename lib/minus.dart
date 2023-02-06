@@ -1,4 +1,4 @@
-import 'package:claculater/ICalculater.dart';
+import 'ICalculater.dart';
 
 class minus extends Icalculater{
 
