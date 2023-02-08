@@ -24,7 +24,7 @@ void intro(){
   print('Power ON');
   print('welcome to the polish wierd calculator . . .');
   print('you can keep adding numbers as long you dont type the math operations : + - * / ');
-  print('if you add the on of the operations above its will take action of the last two numbers have beeb added ');
+  print('if you add the on of the operations above its will take action of the last two numbers have been added ');
 }
 
 String delta(String mathoprations){
